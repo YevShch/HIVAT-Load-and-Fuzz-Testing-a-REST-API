@@ -1,0 +1,22 @@
+config:
+  target: http://127.0.0.1:4000
+  phases:
+  - duration: 10
+    arrivalRate: 2
+    name: Baseline load
+  - duration: 15
+    arrivalRate: 7
+    name: Sustained load
+  - duration: 5
+    arrivalRate: 10
+    name: Peak sustained load
+  - duration: 10
+    arrivalRate: 2
+    name: Cool-down phase
+   
+
+  processor: './scenarios/load-userFetchMovies.cjs'
+scenarios:
+  - flow:
+      - function: createUserAndFetchMovies
+  

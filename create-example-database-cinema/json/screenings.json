@@ -1,0 +1,1382 @@
+[
+  {
+    "movie": "Crocodile Dundee",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-01 18:00"
+  },
+  {
+    "movie": "Creepshow 2",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-01 21:00"
+  },
+  {
+    "movie": "Avalon",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-01 18:00"
+  },
+  {
+    "movie": "The Sandlot",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-01 21:00"
+  },
+  {
+    "movie": "Bananas in my business",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-02 18:00"
+  },
+  {
+    "movie": "The Flintstones",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-02 21:00"
+  },
+  {
+    "movie": "A Family Thing",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-02 18:00"
+  },
+  {
+    "movie": "Fargo",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-02 21:00"
+  },
+  {
+    "movie": "Truman",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-03 18:00"
+  },
+  {
+    "movie": "Resident Evil",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-03 21:00"
+  },
+  {
+    "movie": "Sword Fish",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-03 18:00"
+  },
+  {
+    "movie": "Hollywood Ending",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-03 21:00"
+  },
+  {
+    "movie": "The Big Bounce",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-04 18:00"
+  },
+  {
+    "movie": "Around the World in 80 Days",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-04 21:00"
+  },
+  {
+    "movie": "Club Dread",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-04 18:00"
+  },
+  {
+    "movie": "Lost In Translation",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-04 21:00"
+  },
+  {
+    "movie": "The Last SHot",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-05 18:00"
+  },
+  {
+    "movie": "Decoys",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-05 21:00"
+  },
+  {
+    "movie": "Syndoche New York",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-05 18:00"
+  },
+  {
+    "movie": "The Hunting of The President",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-05 21:00"
+  },
+  {
+    "movie": "The Sisterhood of the Traveling Pants",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-06 13:00"
+  },
+  {
+    "movie": "Hellride",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-06 18:00"
+  },
+  {
+    "movie": "phir milenge",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-06 21:00"
+  },
+  {
+    "movie": "El Vacilón",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-06 13:00"
+  },
+  {
+    "movie": "The Invisible",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-06 18:00"
+  },
+  {
+    "movie": "The Aristocrats",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-06 21:00"
+  },
+  {
+    "movie": "The Tree of Life",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-07 13:00"
+  },
+  {
+    "movie": "Escape From Planet Earth",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-07 18:00"
+  },
+  {
+    "movie": "The Boxtrolls",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-07 21:00"
+  },
+  {
+    "movie": "my kid could paint that",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-07 13:00"
+  },
+  {
+    "movie": "The Amazing Spider-Man",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-07 18:00"
+  },
+  {
+    "movie": "(500) Days of Summer",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-07 21:00"
+  },
+  {
+    "movie": "Step Up 2 - The Streets",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-08 18:00"
+  },
+  {
+    "movie": "The Imaginarium of Doctor Parnassus",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-08 21:00"
+  },
+  {
+    "movie": "Boyhood",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-08 18:00"
+  },
+  {
+    "movie": "Taking Woodstock",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-08 21:00"
+  },
+  {
+    "movie": "Away we go",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-09 18:00"
+  },
+  {
+    "movie": "Marley",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-09 21:00"
+  },
+  {
+    "movie": "medianeras",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-09 18:00"
+  },
+  {
+    "movie": "Iron Fists",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-09 21:00"
+  },
+  {
+    "movie": "Waste Land",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-10 18:00"
+  },
+  {
+    "movie": "The Devil's Double",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-10 21:00"
+  },
+  {
+    "movie": "Yogi Bear",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-10 18:00"
+  },
+  {
+    "movie": "The Dry Land",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-10 21:00"
+  },
+  {
+    "movie": "Tinker Tailor Soldier Spy",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-11 18:00"
+  },
+  {
+    "movie": "Hop",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-11 21:00"
+  },
+  {
+    "movie": "All the Best",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-11 18:00"
+  },
+  {
+    "movie": "Buried",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-11 21:00"
+  },
+  {
+    "movie": "Judy Moody and the Bummer Summer",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-12 18:00"
+  },
+  {
+    "movie": "Hobo with a Shotgun",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-12 21:00"
+  },
+  {
+    "movie": "Inside Job",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-12 18:00"
+  },
+  {
+    "movie": "Soldiers of Fortune",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-12 21:00"
+  },
+  {
+    "movie": "Home Run Showdon",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-13 13:00"
+  },
+  {
+    "movie": "Bol Bachchan",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-13 18:00"
+  },
+  {
+    "movie": "Anna Karenina",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-13 21:00"
+  },
+  {
+    "movie": "Trance",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-13 13:00"
+  },
+  {
+    "movie": "Machete Kills",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-13 18:00"
+  },
+  {
+    "movie": "The House I Live In",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-13 21:00"
+  },
+  {
+    "movie": "Khiladi 786",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-14 13:00"
+  },
+  {
+    "movie": "Checken Khurana",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-14 18:00"
+  },
+  {
+    "movie": "Jodi Breakers",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-14 21:00"
+  },
+  {
+    "movie": "dEaR MR WattERson",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-14 13:00"
+  },
+  {
+    "movie": "Shootout at Wadala",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-14 18:00"
+  },
+  {
+    "movie": "ABCD - Any Body Can Dance",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-14 21:00"
+  },
+  {
+    "movie": "Birth of the Living Dead",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-15 18:00"
+  },
+  {
+    "movie": "This Is Us",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-15 21:00"
+  },
+  {
+    "movie": "main tera Hero",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-15 18:00"
+  },
+  {
+    "movie": "Hot Pursuit",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-15 21:00"
+  },
+  {
+    "movie": "The Purge Anarchy",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-16 18:00"
+  },
+  {
+    "movie": "nasty baby",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-16 21:00"
+  },
+  {
+    "movie": "Video Games - The Movie",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-16 18:00"
+  },
+  {
+    "movie": "Half the Road",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-16 21:00"
+  },
+  {
+    "movie": "Arabian Nights",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-17 18:00"
+  },
+  {
+    "movie": "Pay 2 Play",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-17 21:00"
+  },
+  {
+    "movie": "The Visit",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-17 18:00"
+  },
+  {
+    "movie": "LoveLive!",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-17 21:00"
+  },
+  {
+    "movie": "Crocodile Dundee",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-18 18:00"
+  },
+  {
+    "movie": "Creepshow 2",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-18 21:00"
+  },
+  {
+    "movie": "Avalon",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-18 18:00"
+  },
+  {
+    "movie": "The Sandlot",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-18 21:00"
+  },
+  {
+    "movie": "Bananas in my business",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-19 18:00"
+  },
+  {
+    "movie": "The Flintstones",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-19 21:00"
+  },
+  {
+    "movie": "A Family Thing",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-19 18:00"
+  },
+  {
+    "movie": "Fargo",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-19 21:00"
+  },
+  {
+    "movie": "Truman",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-20 13:00"
+  },
+  {
+    "movie": "Resident Evil",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-20 18:00"
+  },
+  {
+    "movie": "Sword Fish",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-20 21:00"
+  },
+  {
+    "movie": "Hollywood Ending",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-20 13:00"
+  },
+  {
+    "movie": "The Big Bounce",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-20 18:00"
+  },
+  {
+    "movie": "Around the World in 80 Days",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-20 21:00"
+  },
+  {
+    "movie": "Club Dread",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-21 13:00"
+  },
+  {
+    "movie": "Lost In Translation",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-21 18:00"
+  },
+  {
+    "movie": "The Last SHot",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-21 21:00"
+  },
+  {
+    "movie": "Decoys",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-21 13:00"
+  },
+  {
+    "movie": "Syndoche New York",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-21 18:00"
+  },
+  {
+    "movie": "The Hunting of The President",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-21 21:00"
+  },
+  {
+    "movie": "The Sisterhood of the Traveling Pants",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-22 18:00"
+  },
+  {
+    "movie": "Hellride",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-22 21:00"
+  },
+  {
+    "movie": "phir milenge",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-22 18:00"
+  },
+  {
+    "movie": "El Vacilón",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-22 21:00"
+  },
+  {
+    "movie": "The Invisible",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-23 18:00"
+  },
+  {
+    "movie": "The Aristocrats",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-23 21:00"
+  },
+  {
+    "movie": "The Tree of Life",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-23 18:00"
+  },
+  {
+    "movie": "Escape From Planet Earth",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-23 21:00"
+  },
+  {
+    "movie": "The Boxtrolls",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-24 18:00"
+  },
+  {
+    "movie": "my kid could paint that",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-24 21:00"
+  },
+  {
+    "movie": "The Amazing Spider-Man",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-24 18:00"
+  },
+  {
+    "movie": "(500) Days of Summer",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-24 21:00"
+  },
+  {
+    "movie": "Step Up 2 - The Streets",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-25 18:00"
+  },
+  {
+    "movie": "The Imaginarium of Doctor Parnassus",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-25 21:00"
+  },
+  {
+    "movie": "Boyhood",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-25 18:00"
+  },
+  {
+    "movie": "Taking Woodstock",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-25 21:00"
+  },
+  {
+    "movie": "Away we go",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-26 18:00"
+  },
+  {
+    "movie": "Marley",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-26 21:00"
+  },
+  {
+    "movie": "medianeras",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-26 18:00"
+  },
+  {
+    "movie": "Iron Fists",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-26 21:00"
+  },
+  {
+    "movie": "Waste Land",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-27 13:00"
+  },
+  {
+    "movie": "The Devil's Double",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-27 18:00"
+  },
+  {
+    "movie": "Yogi Bear",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-27 21:00"
+  },
+  {
+    "movie": "The Dry Land",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-27 13:00"
+  },
+  {
+    "movie": "Tinker Tailor Soldier Spy",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-27 18:00"
+  },
+  {
+    "movie": "Hop",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-27 21:00"
+  },
+  {
+    "movie": "All the Best",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-28 13:00"
+  },
+  {
+    "movie": "Buried",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-28 18:00"
+  },
+  {
+    "movie": "Judy Moody and the Bummer Summer",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-28 21:00"
+  },
+  {
+    "movie": "Hobo with a Shotgun",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-28 13:00"
+  },
+  {
+    "movie": "Inside Job",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-28 18:00"
+  },
+  {
+    "movie": "Soldiers of Fortune",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-28 21:00"
+  },
+  {
+    "movie": "Home Run Showdon",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-29 18:00"
+  },
+  {
+    "movie": "Bol Bachchan",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-29 21:00"
+  },
+  {
+    "movie": "Anna Karenina",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-29 18:00"
+  },
+  {
+    "movie": "Trance",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-29 21:00"
+  },
+  {
+    "movie": "Machete Kills",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-30 18:00"
+  },
+  {
+    "movie": "The House I Live In",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-30 21:00"
+  },
+  {
+    "movie": "Khiladi 786",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-30 18:00"
+  },
+  {
+    "movie": "Checken Khurana",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-30 21:00"
+  },
+  {
+    "movie": "Jodi Breakers",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-31 18:00"
+  },
+  {
+    "movie": "dEaR MR WattERson",
+    "auditorium": "Stora Salen",
+    "time": "2023-05-31 21:00"
+  },
+  {
+    "movie": "Shootout at Wadala",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-31 18:00"
+  },
+  {
+    "movie": "ABCD - Any Body Can Dance",
+    "auditorium": "Lilla Salen",
+    "time": "2023-05-31 21:00"
+  },
+  {
+    "movie": "Birth of the Living Dead",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-01 18:00"
+  },
+  {
+    "movie": "This Is Us",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-01 21:00"
+  },
+  {
+    "movie": "main tera Hero",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-01 18:00"
+  },
+  {
+    "movie": "Hot Pursuit",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-01 21:00"
+  },
+  {
+    "movie": "The Purge Anarchy",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-02 18:00"
+  },
+  {
+    "movie": "nasty baby",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-02 21:00"
+  },
+  {
+    "movie": "Video Games - The Movie",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-02 18:00"
+  },
+  {
+    "movie": "Half the Road",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-02 21:00"
+  },
+  {
+    "movie": "Arabian Nights",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-03 13:00"
+  },
+  {
+    "movie": "Pay 2 Play",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-03 18:00"
+  },
+  {
+    "movie": "The Visit",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-03 21:00"
+  },
+  {
+    "movie": "LoveLive!",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-03 13:00"
+  },
+  {
+    "movie": "Crocodile Dundee",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-03 18:00"
+  },
+  {
+    "movie": "Creepshow 2",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-03 21:00"
+  },
+  {
+    "movie": "Avalon",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-04 13:00"
+  },
+  {
+    "movie": "The Sandlot",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-04 18:00"
+  },
+  {
+    "movie": "Bananas in my business",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-04 21:00"
+  },
+  {
+    "movie": "The Flintstones",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-04 13:00"
+  },
+  {
+    "movie": "A Family Thing",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-04 18:00"
+  },
+  {
+    "movie": "Fargo",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-04 21:00"
+  },
+  {
+    "movie": "Truman",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-05 18:00"
+  },
+  {
+    "movie": "Resident Evil",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-05 21:00"
+  },
+  {
+    "movie": "Sword Fish",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-05 18:00"
+  },
+  {
+    "movie": "Hollywood Ending",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-05 21:00"
+  },
+  {
+    "movie": "The Big Bounce",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-06 18:00"
+  },
+  {
+    "movie": "Around the World in 80 Days",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-06 21:00"
+  },
+  {
+    "movie": "Club Dread",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-06 18:00"
+  },
+  {
+    "movie": "Lost In Translation",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-06 21:00"
+  },
+  {
+    "movie": "The Last SHot",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-07 18:00"
+  },
+  {
+    "movie": "Decoys",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-07 21:00"
+  },
+  {
+    "movie": "Syndoche New York",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-07 18:00"
+  },
+  {
+    "movie": "The Hunting of The President",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-07 21:00"
+  },
+  {
+    "movie": "The Sisterhood of the Traveling Pants",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-08 18:00"
+  },
+  {
+    "movie": "Hellride",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-08 21:00"
+  },
+  {
+    "movie": "phir milenge",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-08 18:00"
+  },
+  {
+    "movie": "El Vacilón",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-08 21:00"
+  },
+  {
+    "movie": "The Invisible",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-09 18:00"
+  },
+  {
+    "movie": "The Aristocrats",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-09 21:00"
+  },
+  {
+    "movie": "The Tree of Life",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-09 18:00"
+  },
+  {
+    "movie": "Escape From Planet Earth",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-09 21:00"
+  },
+  {
+    "movie": "The Boxtrolls",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-10 13:00"
+  },
+  {
+    "movie": "my kid could paint that",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-10 18:00"
+  },
+  {
+    "movie": "The Amazing Spider-Man",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-10 21:00"
+  },
+  {
+    "movie": "(500) Days of Summer",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-10 13:00"
+  },
+  {
+    "movie": "Step Up 2 - The Streets",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-10 18:00"
+  },
+  {
+    "movie": "The Imaginarium of Doctor Parnassus",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-10 21:00"
+  },
+  {
+    "movie": "Boyhood",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-11 13:00"
+  },
+  {
+    "movie": "Taking Woodstock",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-11 18:00"
+  },
+  {
+    "movie": "Away we go",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-11 21:00"
+  },
+  {
+    "movie": "Marley",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-11 13:00"
+  },
+  {
+    "movie": "medianeras",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-11 18:00"
+  },
+  {
+    "movie": "Iron Fists",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-11 21:00"
+  },
+  {
+    "movie": "Waste Land",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-12 18:00"
+  },
+  {
+    "movie": "The Devil's Double",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-12 21:00"
+  },
+  {
+    "movie": "Yogi Bear",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-12 18:00"
+  },
+  {
+    "movie": "The Dry Land",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-12 21:00"
+  },
+  {
+    "movie": "Tinker Tailor Soldier Spy",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-13 18:00"
+  },
+  {
+    "movie": "Hop",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-13 21:00"
+  },
+  {
+    "movie": "All the Best",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-13 18:00"
+  },
+  {
+    "movie": "Buried",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-13 21:00"
+  },
+  {
+    "movie": "Judy Moody and the Bummer Summer",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-14 18:00"
+  },
+  {
+    "movie": "Hobo with a Shotgun",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-14 21:00"
+  },
+  {
+    "movie": "Inside Job",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-14 18:00"
+  },
+  {
+    "movie": "Soldiers of Fortune",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-14 21:00"
+  },
+  {
+    "movie": "Home Run Showdon",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-15 18:00"
+  },
+  {
+    "movie": "Bol Bachchan",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-15 21:00"
+  },
+  {
+    "movie": "Anna Karenina",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-15 18:00"
+  },
+  {
+    "movie": "Trance",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-15 21:00"
+  },
+  {
+    "movie": "Machete Kills",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-16 18:00"
+  },
+  {
+    "movie": "The House I Live In",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-16 21:00"
+  },
+  {
+    "movie": "Khiladi 786",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-16 18:00"
+  },
+  {
+    "movie": "Checken Khurana",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-16 21:00"
+  },
+  {
+    "movie": "Jodi Breakers",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-17 13:00"
+  },
+  {
+    "movie": "dEaR MR WattERson",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-17 18:00"
+  },
+  {
+    "movie": "Shootout at Wadala",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-17 21:00"
+  },
+  {
+    "movie": "ABCD - Any Body Can Dance",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-17 13:00"
+  },
+  {
+    "movie": "Birth of the Living Dead",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-17 18:00"
+  },
+  {
+    "movie": "This Is Us",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-17 21:00"
+  },
+  {
+    "movie": "main tera Hero",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-18 13:00"
+  },
+  {
+    "movie": "Hot Pursuit",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-18 18:00"
+  },
+  {
+    "movie": "The Purge Anarchy",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-18 21:00"
+  },
+  {
+    "movie": "nasty baby",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-18 13:00"
+  },
+  {
+    "movie": "Video Games - The Movie",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-18 18:00"
+  },
+  {
+    "movie": "Half the Road",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-18 21:00"
+  },
+  {
+    "movie": "Arabian Nights",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-19 18:00"
+  },
+  {
+    "movie": "Pay 2 Play",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-19 21:00"
+  },
+  {
+    "movie": "The Visit",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-19 18:00"
+  },
+  {
+    "movie": "LoveLive!",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-19 21:00"
+  },
+  {
+    "movie": "Crocodile Dundee",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-20 18:00"
+  },
+  {
+    "movie": "Creepshow 2",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-20 21:00"
+  },
+  {
+    "movie": "Avalon",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-20 18:00"
+  },
+  {
+    "movie": "The Sandlot",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-20 21:00"
+  },
+  {
+    "movie": "Bananas in my business",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-21 18:00"
+  },
+  {
+    "movie": "The Flintstones",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-21 21:00"
+  },
+  {
+    "movie": "A Family Thing",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-21 18:00"
+  },
+  {
+    "movie": "Fargo",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-21 21:00"
+  },
+  {
+    "movie": "Truman",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-22 18:00"
+  },
+  {
+    "movie": "Resident Evil",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-22 21:00"
+  },
+  {
+    "movie": "Sword Fish",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-22 18:00"
+  },
+  {
+    "movie": "Hollywood Ending",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-22 21:00"
+  },
+  {
+    "movie": "The Big Bounce",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-23 18:00"
+  },
+  {
+    "movie": "Around the World in 80 Days",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-23 21:00"
+  },
+  {
+    "movie": "Club Dread",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-23 18:00"
+  },
+  {
+    "movie": "Lost In Translation",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-23 21:00"
+  },
+  {
+    "movie": "The Last SHot",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-24 13:00"
+  },
+  {
+    "movie": "Decoys",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-24 18:00"
+  },
+  {
+    "movie": "Syndoche New York",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-24 21:00"
+  },
+  {
+    "movie": "The Hunting of The President",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-24 13:00"
+  },
+  {
+    "movie": "The Sisterhood of the Traveling Pants",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-24 18:00"
+  },
+  {
+    "movie": "Hellride",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-24 21:00"
+  },
+  {
+    "movie": "phir milenge",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-25 13:00"
+  },
+  {
+    "movie": "El Vacilón",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-25 18:00"
+  },
+  {
+    "movie": "The Invisible",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-25 21:00"
+  },
+  {
+    "movie": "The Aristocrats",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-25 13:00"
+  },
+  {
+    "movie": "The Tree of Life",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-25 18:00"
+  },
+  {
+    "movie": "Escape From Planet Earth",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-25 21:00"
+  },
+  {
+    "movie": "The Boxtrolls",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-26 18:00"
+  },
+  {
+    "movie": "my kid could paint that",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-26 21:00"
+  },
+  {
+    "movie": "The Amazing Spider-Man",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-26 18:00"
+  },
+  {
+    "movie": "(500) Days of Summer",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-26 21:00"
+  },
+  {
+    "movie": "Step Up 2 - The Streets",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-27 18:00"
+  },
+  {
+    "movie": "The Imaginarium of Doctor Parnassus",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-27 21:00"
+  },
+  {
+    "movie": "Boyhood",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-27 18:00"
+  },
+  {
+    "movie": "Taking Woodstock",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-27 21:00"
+  },
+  {
+    "movie": "Away we go",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-28 18:00"
+  },
+  {
+    "movie": "Marley",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-28 21:00"
+  },
+  {
+    "movie": "medianeras",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-28 18:00"
+  },
+  {
+    "movie": "Iron Fists",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-28 21:00"
+  },
+  {
+    "movie": "Waste Land",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-29 18:00"
+  },
+  {
+    "movie": "The Devil's Double",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-29 21:00"
+  },
+  {
+    "movie": "Yogi Bear",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-29 18:00"
+  },
+  {
+    "movie": "The Dry Land",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-29 21:00"
+  },
+  {
+    "movie": "Tinker Tailor Soldier Spy",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-30 18:00"
+  },
+  {
+    "movie": "Hop",
+    "auditorium": "Stora Salen",
+    "time": "2023-06-30 21:00"
+  },
+  {
+    "movie": "All the Best",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-30 18:00"
+  },
+  {
+    "movie": "Buried",
+    "auditorium": "Lilla Salen",
+    "time": "2023-06-30 21:00"
+  }
+]

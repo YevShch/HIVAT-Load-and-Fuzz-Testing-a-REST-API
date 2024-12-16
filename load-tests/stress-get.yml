@@ -1,0 +1,25 @@
+config:
+  target: http://127.0.0.1:4000
+  phases:
+  - duration: 10
+    arrivalRate: 1
+    rampTo: 3
+    name: Gradual warm-up
+  - duration: 10
+    arrivalRate: 5
+    rampTo: 8
+    name: High steady-state
+  - duration: 10
+    arrivalRate: 10
+    rampTo: 13
+    name: Stress phase
+  - duration: 5
+    arrivalRate: 15
+    rampTo: 20
+    name: Spike phase
+
+  processor: './scenarios/stress-get.cjs'
+scenarios:
+  - flow:
+      - function: runGetUsersTest
+      - function: runBookingsXseatsTest

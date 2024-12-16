@@ -1,0 +1,31 @@
+{
+  "name": "generic-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "create-example-db": "cd create-example-database-cinema && node seeder.js",
+    "backend": "cd backend && node index.js",
+    "load-test": "artillery run load-tests/load-userFetchMovies.yml",
+    "post-test": "artillery run load-tests/postValidation.yml",
+    "stress-get-test": "artillery run load-tests/stress-get.yml",
+    "stress-post-test": "artillery run load-tests/stress-post.yml",
+    "fuzz-test": "artillery run load-tests/fuzzing-post.yml"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "artillery": "^2.0.21",
+    "chai": "^5.1.2",
+    "express": "^4.18.2",
+    "express-mysql-session": "^2.1.8",
+    "express-session": "^1.17.3",
+    "mysql2": "^3.1.2",
+    "require-from-es": "^1.0.3"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.9.3"
+  }
+}

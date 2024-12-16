@@ -1,0 +1,20 @@
+config:
+  target: http://127.0.0.1:4000  
+  phases:
+    - duration: 10
+      arrivalRate: 10  
+
+  metrics:
+    - http.response_time
+    - http.response_time.p99
+    - http.errors
+    - throughput
+
+  processor: './scenarios/fuzz-user-creation.cjs' 
+scenarios:
+  - flow:
+      - function: runValidUserCreationTest
+      - function: runInvalidUserCreationTest
+      - function: runInvalidJsonTest
+     
+

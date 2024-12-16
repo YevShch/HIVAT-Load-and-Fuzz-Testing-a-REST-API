@@ -1,0 +1,17 @@
+config:
+  target: "http://localhost:4000"  
+  phases:
+    - duration: 10  
+      arrivalRate: 20  
+  
+
+scenarios:
+  - flow:
+      # - loop:
+        - put:
+           url: "/api/users/26"  
+           json:
+            password: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula, nunc eget euismod sollicitudududududin, purus velit scelerisque ligula, non tincidunt orci urna at nisi. Nulla facilisi. Sed tincidunt, orci eget hendrerit gravida, libero magna posuere augue."
+        # - get:
+        #    url: "/api/users"
+    # count: 10

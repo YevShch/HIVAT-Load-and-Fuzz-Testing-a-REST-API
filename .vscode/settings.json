@@ -1,0 +1,24 @@
+{
+  "yaml.schemas": {
+    "https://www.artillery.io/schema.json": [
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/artillery-playwright.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/api-testing.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/artillery-stress.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/main.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/post.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/stress.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/fuzz.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/post-testing.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/fuzz_put_users.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/stress-get.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/stress-post.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/load-user-movies.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/load-userFetchMovies.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/fuzzing.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/fuzzing_put_users.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/fuzzing_put_user.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/fuzzing-post.yml",
+      "file:///c%3A/Users/Min%20Dator/Desktop/KYH%20Testautomatisering/Rest%20API%20Testing%20Movies/load-tests/postValidation.yml"
+    ]
+  }
+}
