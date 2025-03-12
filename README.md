@@ -34,8 +34,8 @@ Tests resilience by sending invalid inputs (e.g., long strings, missing fields, 
 2. Update `settings.json` with your MySQL credentials.  
 
 ### Setup Instructions  
-1. **Download and unzip the project**:  
-   - Get the frontend example ([frontend-using-restapi-example-2.zip](#)).  
+1. **Download the project**:  
+  
 2. **Install dependencies and set up the database**:  
    ```bash
    npm install
